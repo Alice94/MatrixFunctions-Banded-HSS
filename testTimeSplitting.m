@@ -1,3 +1,6 @@
+addpath('util')
+addpath('util/matrices')
+
 debug = 0;
 tol = 1e-8;
 b = 1;

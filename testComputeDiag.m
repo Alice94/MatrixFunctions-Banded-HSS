@@ -1,4 +1,6 @@
 % This needs METIS + metismex, see https://github.com/dgleich/metismex
+addpath('util')
+addpath('util/matrices')
 
 files = ["minnesota.mat", "power.mat", "as-735.mat", "nopoly.mat", "worms20_10NN.mat", "fe_body.mat"];
 

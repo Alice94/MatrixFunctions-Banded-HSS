@@ -1,5 +1,8 @@
 clear all;
 close all;
+
+addpath('util')
+addpath('util/matrices')
 rng(1);
 hssoption('threshold', 1e-8);
 hssoption('block-size', 256);

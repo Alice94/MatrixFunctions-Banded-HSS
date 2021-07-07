@@ -1,3 +1,6 @@
+addpath('util')
+addpath('util/matrices')
+
 % General settings
 clear all;
 close all;

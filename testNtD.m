@@ -1,3 +1,6 @@
+addpath('util')
+addpath('util/matrices')
+
 ns = 2.^(9:15); % 9-15
 maxfull = 2^13; % 13
 k = 50;

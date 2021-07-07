@@ -1,3 +1,6 @@
+addpath('util')
+addpath('util/matrices')
+
 hssoption('threshold', 1e-8);
 hssoption('block-size', 256);
 do_print = 1;

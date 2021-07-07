@@ -1,3 +1,6 @@
+addpath('util')
+addpath('util/matrices')
+
 tol = 1e-12;
 hssoption('threshold', tol);
 hssoption('block-size', 256);

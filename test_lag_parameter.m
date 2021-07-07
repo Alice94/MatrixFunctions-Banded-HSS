@@ -1,4 +1,6 @@
 % This needs METIS + metismex, see https://github.com/dgleich/metismex
+addpath('util')
+addpath('util/matrices')
 
 tol = 1e-8;
 

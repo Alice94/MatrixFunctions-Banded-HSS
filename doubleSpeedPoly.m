@@ -1,3 +1,6 @@
+addpath('util')
+addpath('util/matrices')
+
 rng(1)
 fontSize = 13;
 
