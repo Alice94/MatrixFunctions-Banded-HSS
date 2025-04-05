@@ -20,3 +20,8 @@ The following toolboxes are needed to run (some of) the scripts:
 - rktoolbox http://guettel.com/rktoolbox/
 - chebfun https://www.chebfun.org/
 
+If you use this repository, please cite it as:
+
+[![DOI](https://zenodo.org/badge/381786692.svg)](https://doi.org/10.5281/zenodo.15158962)
+
+
